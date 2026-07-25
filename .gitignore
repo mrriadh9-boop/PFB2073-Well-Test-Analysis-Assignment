@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Agent working directories
+.agents/
+
+# Virtual environments
+env/
+venv/
+ENV/
